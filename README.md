@@ -9,7 +9,11 @@
 
 <h3> :computer: Tech Stack: </h3>
 
-<img align="center" alt="Matheus-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div> <img align="center" alt="Matheus-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Matheus-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> </div>
+
+          
+          
  
 <h3> :link: Connect with me: </h3>  
 <p align="left">
