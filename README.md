@@ -34,3 +34,4 @@
 
 </details>
 
+1[Snake animation](https://github.com/TeuzinTz/TeuzinTz/blob/output/github-contribution-grid-snake.svg)
