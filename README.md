@@ -3,15 +3,15 @@
  </div>
 
 
-- 🌱 I’m currently learning CyberSecurity.
-- 📧 Send me an e-mail: m-msg2000@hotmail.com
-- 💪 Working hard in studies.
+- <h3> 🌱 I’m currently learning CyberSecurity. </h3>
+- <h3> 📧 Send me an e-mail: m-msg2000@hotmail.com </h3>
+- <h3> 💪 Working hard in studies. </h3>
 
-# :computer: Tech Stack:
+<h3> :computer: Tech Stack: </h3>
 
 <img align="center" alt="Matheus-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-# :hash: Connect with me:
+<h3> :link: Connect with me: </h3>  
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-gomes-12b719202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-gomes-12b719202/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/matheus.msgomes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus.msgomes" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 
  
 <details>
-  <summary><h1>⚡ Recent GitHub Activity<h1></summary>
+  <summary><h3>⚡ Recent GitHub Activity<h3></summary>
   
 <!--START_SECTION:activity-->
   <br />
@@ -28,7 +28,7 @@
 
 </details>
 <details>
- <summary><h1>⚡ GitHub Stats</h1></summary>
+ <summary><h3>⚡ GitHub Stats</h3></summary>
 <br />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuzinTz&layout=compact&langs_count=7&theme=tokyonight"/>
 
