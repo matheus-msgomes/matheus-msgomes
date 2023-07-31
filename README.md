@@ -27,15 +27,15 @@
   
 <!--START_SECTION:activity-->
   <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeuzinTz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-msgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <!--END_SECTION:activity-->
 
 </details>
 <details>
  <summary><h3>⚡ GitHub Stats</h3></summary>
 <br />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuzinTz&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-msgomes&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </details>
 
-![snake gif](https://github.com/TeuzinTz/TeuzinTz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/matheus-msgomes/matheus-msgomes/blob/output/github-contribution-grid-snake.svg)
