@@ -34,7 +34,7 @@
 <details>
  <summary><h3>⚡ GitHub Stats</h3></summary>
 <br />
-![](https://github-readme-stats.vercel.app/api?username=matheus-msgomes&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+!(https://github-readme-stats.vercel.app/api?username=matheus-msgomes&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 </details>
 
