@@ -27,7 +27,7 @@
   
 <!--START_SECTION:activity-->
   <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-msgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-msgomes&theme=dark&show_icons=true)
 <!--END_SECTION:activity-->
 
 </details>
