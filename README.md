@@ -34,7 +34,7 @@
 <details>
  <summary><h3>⚡ GitHub Stats</h3></summary>
 <br />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-msgomes&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathues-msgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </details>
 
