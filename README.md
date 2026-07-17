@@ -100,15 +100,7 @@ contato: m-msg2000@hotmail.com
 ### 🖥️ Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://terminal-identity-opal.vercel.app/api?name=Matheus+Gomes&username=matheus-msgomes&theme=obsidian/ember" width="100%" alt="terminal identity card" />
-</p>
-
----
-
-### 📈 Atividade de contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-msgomes&theme=redical&bg_color=0D1117&color=FF0033&line=FF0033&point=E8A9B4&hide_border=true" width="100%" />
+  <img src="https://terminal-identity-opal.vercel.app/api?name=Matheus+Gomes&username=matheus-msgomes&role=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o&tagline=Formado+em+Ciberseguran%C3%A7a+%7C+Cursando+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+Estagi%C3%A1rio+na+SONDA&status=Red+Teamer+em+forma%C3%A7%C3%A3o&command=nmap+-sV+--top-ports+100&theme=obsidian/ember&avatar=MG&pattern=grid&width=980&height=auto&showContribs=on&contribTheme=signal&contribRange=16w&showLangs=on&langCount=5&langStyle=bar&barStyle=blocks" width="100%" alt="terminal identity card" />
 </p>
 
 ---
