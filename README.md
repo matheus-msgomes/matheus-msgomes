@@ -4,7 +4,7 @@
 
 # 🔐 Cybersecurity • Cloud • Networks
 
-### 🎓 Tecnólogo em Cibersegurança | 📘 Bacharelado em Sistemas de Informação
+### 🎓 Tecnólogo em Cibersegurança | 📘 Sistemas de Informação
 
 <img src="https://img.shields.io/badge/CIBERSEGURANÇA-CONCLUÍDO-8B0000?style=for-the-badge"/>
 
@@ -18,27 +18,35 @@
 
 ---
 
-# 🏆 Certificações em Destaque
+<h1 align="center">🏆 Certificações Principais</h1>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Oracle%20OCI-Foundations%20Associate-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_OCI_Foundations_Associate-Oracle-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_OCI_AI_Foundations-Oracle-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔐_Cybersecurity_Essentials-Cisco-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cisco-Network%20Security-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Network_Security-Cisco-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Introduction%20to%20Networks-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📡_CCNA_Introduction_to_Networks-Cisco-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cisco-SRWE-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📶_CCNA_SRWE-Cisco-blue?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> Certificações focadas em Cloud Computing, Redes e Cibersegurança.
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+<h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
 
@@ -66,7 +74,11 @@
 
 ---
 
-# 🚀 Projetos em Destaque
+<h1 align="center">🚀 Projetos Reais</h1>
+
+<p align="center">
+Projetos desenvolvidos para aprendizado, prática profissional e experiências reais.
+</p>
 
 <div align="center">
 
@@ -84,19 +96,19 @@
 
 ### 💼 Portfolio Pessoal
 
-Meu portfólio profissional desenvolvido para apresentar minha trajetória, projetos, certificações e evolução na área de tecnologia.
+Meu portfólio profissional onde apresento minha trajetória, certificações, projetos e evolução na área de tecnologia.
 
 ### ❤️ Site Romântico
 
-Projeto desenvolvido para um amigo, focado em experiência visual, responsividade e personalização.
+Projeto desenvolvido para um amigo, focado em experiência do usuário, design responsivo e personalização.
 
 ### 🍽️ Sabor Local
 
-Projeto Integrador desenvolvido na Impacta utilizando conceitos No Code / Low Code.
+Projeto Integrador desenvolvido na Impacta utilizando ferramentas No Code / Low Code.
 
 ---
 
-# 🧪 Laboratórios e Prática
+<h1 align="center">🧪 Laboratórios Práticos</h1>
 
 <div align="center">
 
@@ -106,7 +118,7 @@ Projeto Integrador desenvolvido na Impacta utilizando conceitos No Code / Low Co
 
 <br>
 
-### Salas concluídas
+### Salas Concluídas
 
 * 🔹 Blue
 * 🔹 Ice
@@ -115,13 +127,13 @@ Projeto Integrador desenvolvido na Impacta utilizando conceitos No Code / Low Co
 
 ---
 
-# 🛠️ Stack Tecnológica
+<h1 align="center">🛠️ Stack Tecnológica</h1>
 
 ### 🔐 Segurança
 
 <p>
 
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
 
@@ -137,7 +149,7 @@ Projeto Integrador desenvolvido na Impacta utilizando conceitos No Code / Low Co
 
 <img src="https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Switching%20%26%20Routing-Cisco-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Switching_&_Routing-Cisco-blue?style=for-the-badge"/>
 
 </p>
 
@@ -145,7 +157,7 @@ Projeto Integrador desenvolvido na Impacta utilizando conceitos No Code / Low Co
 
 <p>
 
-<img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge"/>
 
 </p>
 
@@ -159,23 +171,23 @@ Projeto Integrador desenvolvido na Impacta utilizando conceitos No Code / Low Co
 
 ---
 
-# 🎓 Formação
+<h1 align="center">🎓 Jornada Acadêmica</h1>
 
 ### 🎓 Tecnólogo em Cibersegurança
 
-Concluído.
+✅ Concluído
 
 ### 📘 Bacharelado em Sistemas de Informação
 
-Em andamento.
+📚 Em andamento
 
-### 💼 Experiência
+### 💼 Experiência Profissional
 
-Estagiário de TI na SONDA.
+**SONDA** — Estagiário de TI
 
 ---
 
-# 📜 Certificações
+<h1 align="center">📜 Todas as Certificações</h1>
 
 ### Cisco Networking Academy
 
@@ -196,7 +208,7 @@ Estagiário de TI na SONDA.
 
 ### Oracle Next Education
 
-* Programa ONE Tech Foundation G8 - Back End
+* Programa ONE Tech Foundation G8 — Back End
 
 ### TryHackMe
 
@@ -207,23 +219,18 @@ Estagiário de TI na SONDA.
 
 ### Impacta
 
-* Projeto Integrador - Sabor Local (No Code / Low Code)
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=matheus-msgomes&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
+* Projeto Integrador — Sabor Local (No Code / Low Code)
 
 ---
 
 <div align="center">
 
 ### ⚡ First, solve the problem. Then, write the code.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:E80000,100:0D1117"/>
+
+</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:E80000,100:0D1117"/>
 
